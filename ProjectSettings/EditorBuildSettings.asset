@@ -9,3 +9,5 @@ EditorBuildSettings:
     path: Assets/VRTest.unity
   - enabled: 1
     path: Assets/Scenes/gallery.unity
+  - enabled: 1
+    path: Assets/Scenes/campbellSoup2.unity
